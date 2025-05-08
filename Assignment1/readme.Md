@@ -34,5 +34,3 @@ return obj[key]
 Any : any types stops the type checking. We can do anything with an any type
 Unknown : Unknown is similar to any. But it enforces type safety.
 Never : Never types represents values that never occur. Never is used when we have exhausted all possible value answer dont have anything to assign  
-
-4.
